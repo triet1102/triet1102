@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Triet TRAN</h1>
-<h3 align="center">ML & Cloud Research Engineer at <a href="https://www.inetum.com/en">Inetum</a> </h3>
+<h3 align="center">ML Engineer at <a href="https://scortex.io">Scortex</a> </h3>
 
-### 💬 About me
-- Alumnus of [INSA Centre Val de Loire](https://twitter.com/insacvl), [Université du Québec à Chicoutimi](https://twitter.com/UQAC).
-- Previously R&D Machine Learning intern at [Sinequa](https://twitter.com/sinequa) - Recognized as a Leader in Enterprise Search, working on [Semantic Textual Similarity project](https://www.sbert.net).
-- Passionate about Machine Learning, Cloud Computing and new technologies.
 
 ### Connect with me
 
